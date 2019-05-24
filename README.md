@@ -1,2 +1,2 @@
-# week-2
+# week-3
 Week 3 starting code
